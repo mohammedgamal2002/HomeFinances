@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../openjfx-19_windows-x64_bin-sdk/javafx-sdk-19/lib" />
+      <root url="jar://M:/Java/JDBC/sqljdbc_11.2/enu/mssql-jdbc-11.2.0.jre18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://M:/Java/JDBC/sqljdbc_11.2/enu/auth/x64" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../openjfx-19_windows-x64_bin-sdk/javafx-sdk-19/lib" recursive="false" />
+  </library>
+</component>
